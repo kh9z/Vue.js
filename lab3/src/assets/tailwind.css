@@ -1,0 +1,32 @@
+.btn-blue {
+    padding: 0.25rem 0.75rem;
+    margin: .5rem;
+    margin-left: 0;
+    background-color: #3b82f6;
+    color: white;
+    border-radius: 0.25rem;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+}
+.btn-red {
+    padding: 0.25rem 0.75rem;
+    margin: .5rem;
+    background-color: #ef4444;
+    color: white;
+    border-radius: 0.25rem;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+}
+.btn-green {
+    padding: 0.25rem 0.75rem;
+    margin: .5rem;
+    margin-left: 0;
+    background-color: #22c55e;
+    color: white;
+    border-radius: 0.25rem;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+}
