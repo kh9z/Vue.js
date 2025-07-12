@@ -1,0 +1,44 @@
+{
+  "title": "Testing app [VeeV]",
+  "navigation": {
+    "next": "Next",
+    "previous": "Back",
+    "submit": "Finish"
+  },
+  "completion": {
+    "testCompleted": "Test Completed!",
+    "unansweredQuestions": "Please answer all questions. Unanswered questions: ",
+    "correctAnswers": "Number of Correct Answers: ",
+    "successPercentage": "Success Percentage: "
+  },
+  "validation": {
+    "required": "This field is required",
+    "selectAtLeastOne": "Please select at least one option",
+    "selectAnOption": "Please select an option",
+    "validDate": "Please enter a valid date",
+
+    "minLength": "Must be at least {min} characters",
+    "minAge": "Must be 18 or older",
+    "email": "Must be a valid email",
+    "phone": "Phone number must be 10 digits"
+  },
+  "userForm": {
+    "name": "Name",
+    "age": "Age",
+    "email": "Email",
+    "phone": "Phone Number",
+    "gender": "Gender",
+    "selectGender": "Select Gender",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other",
+    "startTest": "Start Test"
+  },
+  "questionForm": {
+    "question": "Question",
+    "of": "of",
+    "previous": "Previous",
+    "next": "Next",
+    "finish": "Finish"
+  }
+}

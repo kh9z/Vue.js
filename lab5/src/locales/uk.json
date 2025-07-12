@@ -1,0 +1,43 @@
+{
+  "title": "Тестування [VeeV]",
+  "navigation": {
+    "next": "Далі",
+    "previous": "Назад",
+    "submit": "Завершити"
+  },
+  "completion": {
+    "testCompleted": "Тест завершено!",
+    "unansweredQuestions": "Будь ласка, дайте відповідь на всі запитання. Не відповіли на: ",
+    "correctAnswers": "Кількість правильних відповідей: ",
+    "successPercentage": "Відсоток успіху: "
+  },
+  "validation": {
+    "required": "Це поле обов'язкове",
+    "selectAtLeastOne": "Виберіть хоча б один варіант",
+    "selectAnOption": "Будь ласка, виберіть варіант",
+    "validDate": "Введіть правильну дату",
+    "minLength": "Повинно бути не менше {min} символів",
+    "minAge": "Повинно бути 18 років або старше",
+    "email": "Повинен бути дійсний email",
+    "phone": "Номер телефону повинен бути з 10 цифр"
+  },
+  "userForm": {
+    "name": "Ім'я",
+    "age": "Вік",
+    "email": "Електронна пошта",
+    "phone": "Номер телефону",
+    "gender": "Стать",
+    "selectGender": "Ваша стать",
+    "male": "Чоловік",
+    "female": "Жінка",
+    "other": "Інша",
+    "startTest": "Почати тест"
+  },
+  "questionForm": {
+    "question": "Питання",
+    "of": "з",
+    "previous": "Назад",
+    "next": "Вперед",
+    "finish": "Завершити"
+  }
+}
