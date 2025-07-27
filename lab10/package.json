@@ -1,0 +1,38 @@
+{
+  "name": "vue-library",
+  "version": "1.0.0",
+  "description": "Набір UI компонентів на Vue 3",
+  "main": "./dist/my-component-library.umd.js",
+  "module": "./dist/my-component-library.es.js",
+  "files": [
+    "dist",
+    "src/components",
+    "src/plugins"
+  ],
+  "exports": {
+    ".": {
+      "import": "./dist/my-component-library.es.js",
+      "require": "./dist/my-component-library.umd.js"
+    }
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "peerDependencies": {
+    "vue": "^3.0.0"
+  },
+  "keywords": [
+    "vue",
+    "components",
+    "library",
+    "ui"
+  ],
+  "author": "Kh9z",
+  "license": "MIT",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.6.2",
+    "vite": "^4.5.14"
+  }
+}
